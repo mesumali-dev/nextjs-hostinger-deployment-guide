@@ -1,4 +1,4 @@
-# 🚀 Next.js Production Deployment Guide on Hostinger VPS
+# Next.js Production Deployment Guide on Hostinger VPS
 
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx)](https://nginx.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Guide Overview
+## Guide Overview
 
 1. **Server Provisioning:** Initial Ubuntu setup, UFW firewall configuration, and non-root sudo user.
 2. **Runtime Environment:** Installing Node.js via NVM, Git, and build essentials.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Quick Commands
+## Quick Commands
 
 ```bash
 # Build app on server
@@ -35,5 +35,5 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
